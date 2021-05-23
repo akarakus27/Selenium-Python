@@ -1,4 +1,9 @@
 <h1> Selenium Python Examples</h1>
 
-# Amazon pom project
-    https://github.com/akarakus27/Selenium-Python/tree/main/Amazon%20POM%20Project
+ <p align="center"> 
+      <a href="https://github.com/akarakus27/Selenium-Python/tree/main/Amazon%20POM%20Project">Amazon Pom Project</a>    
+   </p>
+   <p align="center">
+      <a href="https://github.com/akarakus27/Selenium-Python/tree/main/Selenium%20Basic%20Project">Basic Selenium Project</a>
+   </p>
+    
